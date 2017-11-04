@@ -30,3 +30,6 @@ My lo dao complains I don't reply his message often :-(
     Sorry, I can't count 3
    ```
 - run run.py with Python3, it's almost 2018
+
+## Other
+- Oh btw, beside the messages input by client, all the default messages are in misheard Cantonese
