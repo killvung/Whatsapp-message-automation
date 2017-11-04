@@ -1,0 +1,9 @@
+*.egg-info/
+build/
+dist/
+*.log
+*.pyc
+messages.txt
+mukulhase/
+.vscode/
+__pycache__
