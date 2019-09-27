@@ -3,7 +3,7 @@
 Automate message sending in Whatsapp 
 
 ## Motiviation
-My lo dao complains I don't reply his message often :-(
+My father often complain on my lacking visibility on WhatsApp, therefore I created a system to automate WhatsApp messaging just to keep him happy.
 
 ## Ingredient
 - [Unofficial WhatsappAPI by mukulhase](https://github.com/mukulhase/WhatsAPI)
@@ -29,7 +29,7 @@ My lo dao complains I don't reply his message often :-(
     Oh wait, where is the third message? 
     Sorry, I can't count 3
    ```
-- run run.py with Python3, it's almost 2018
+- run run.py with Python3, (Make sure you run it with Pyton 3, it's almost 2020)
 
 ## Other
-- Oh btw, beside the messages input by client, all the default messages are in misheard Cantonese
+- Default messages are in misheard-Cantonese because my family speaks Cantonese.
