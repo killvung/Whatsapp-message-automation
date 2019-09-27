@@ -33,3 +33,6 @@ My father often complain on my lacking visibility on WhatsApp, therefore I creat
 
 ## Other
 - Default messages are in misheard-Cantonese because my family speaks Cantonese.
+
+## Feedback 
+- My father said he can't understand the messages in the system, guess I have to use actual Cantonese instead :-( 
