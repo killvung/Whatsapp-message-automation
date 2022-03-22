@@ -3,16 +3,16 @@
 Automate message sending in Whatsapp 
 
 ## Motiviation
-My father often complain on my lacking visibility on WhatsApp, therefore I created a system to automate WhatsApp messaging just to keep him happy.
+My father often complain my lacking visibility on WhatsApp, therefore I created a system to automate WhatsApp messaging just to keep him happy.
 
 ## Ingredient
 - [Unofficial WhatsappAPI by mukulhase](https://github.com/mukulhase/WhatsAPI)
-    - I clone its repo and extended upon it
+    - I extended from this repo.
 
 ## Make sure
 - geckodriver has been located in PATH
-- prepare own messages.txt for messages to be sent
-- prepare phone numbers to be sent, now the phone number has defaulted to 911 (;-))
+- prepare own `messages.txt` for messages to be sent
+- prepare phone numbers to be sent, now the phone number is defaulted to 911 (;-))
 
 ## Recommanded Step
 - Clone this repo
@@ -32,7 +32,7 @@ My father often complain on my lacking visibility on WhatsApp, therefore I creat
 - run run.py with Python3, (Make sure you run it with Pyton 3, it's almost 2020)
 
 ## Other
-- Default messages are in misheard-Cantonese because my family speaks Cantonese.
+- Default messages are in misheard-Cantonese.
 
 ## Feedback 
-- My father said he can't understand the messages in the system, guess I have to use actual Cantonese instead :-( 
+- My father couldn't understand any messages in the system, guess I have to use actual Cantonese instead :-( 
